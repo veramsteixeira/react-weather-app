@@ -43,3 +43,9 @@
     line-height: 1;
     top: -34px;
   }
+
+  .Weather canvas {
+    margin-right: 5px;
+    margin-top: 5px;
+   
+  }
